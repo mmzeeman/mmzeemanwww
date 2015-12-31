@@ -1,0 +1,27 @@
+[
+   {enabled, true},
+   {host, mmzeemanwww},
+
+   {hostname, "mmzeeman.nl"},
+   {hostalias, ["www.mmzeeman.nl"]},
+
+   {dbhost, "127.0.0.1"},
+   {dbport, 5432},
+   {dbuser, "mmzeeman"},
+   {dbpassword, ""},
+   {dbdatabase, "mmzeemanwww"},
+   {dbschema, "public"},
+    
+   {redirect, true},
+
+   % {admin_password, ""},
+
+   % {sign_key_simple, <<"">>},
+   % {sign_key, <<"">>},
+
+   {title, <<"MMZeeman.nl">>},
+   {subtitle, <<"My personal website">>},
+
+   {pagelen, 5}
+
+].
